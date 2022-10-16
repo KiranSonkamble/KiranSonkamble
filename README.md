@@ -2,7 +2,8 @@
 - 👀 I’m interested in Data Science.
 - 🌱 I’m currently learning Data Science.
 - 💞️ I’m looking to collaborate on machine learning, python and deep learning.
-- 📫 reach me at KRNSONKAMBLE3@GMAIL.COM
+- 📫 reach me at KRNSONKAMBLE3@GMAIL.COM 
+- https://www.linkedin.com/in/kiran-sonkamble/
 
 <!---
 KiranSonkamble/KiranSonkamble is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
