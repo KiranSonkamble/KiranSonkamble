@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kiran Sonkamble
 - 👀 I’m interested in Data Science.
-- 🌱 I’m currently learning Data Science.
+- 🌱 I’m learning & Working on Customer Analytics domain.
 - 💞️ I’m looking to collaborate on machine learning, python and deep learning.
 - 📫 reach me at KRNSONKAMBLE3@GMAIL.COM 
 - https://www.linkedin.com/in/kiran-sonkamble/
